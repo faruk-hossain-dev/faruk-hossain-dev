@@ -123,6 +123,3 @@ I am a Full-Stack MERN Developer passionate about building modern, high-performa
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=100&section=footer"width="100%" />
 </p>
-### 🐍 My GitHub Contribution Snake
-
-![GitHub-Contribution-Snake](https://raw.githubusercontent.com/faruk-hossain-dev/faruk-hossain-dev/output/github-contribution-grid-snake.svg)
